@@ -50,34 +50,19 @@ ANIMA has been designed to solve medical query. A few options are available to y
 
 Discussion is our AI chatbot where you get answers to any question you might have. Simply enter your question like below:
 
-<img width="983" alt="chatbot" src="https://github.com/user-attachments/assets/fddc669a-628f-4298-aa26-d48e7f8f0f17">
+<img width="983" alt="chatbot" src="https://github.com/user-attachments/assets/25d31947-745f-46f9-a564-9cdf55dee886">
 
-And then AI will reply to you:
-
-<img width="983" alt="chatbot" src="https://github.com/user-attachments/assets/49817e44-c2b9-4b13-b5b3-79b941c30cc9">
-
-Finally, you can also compare the answer you got with a Google search:
-
-<img width="983" alt="search" src="https://github.com/user-attachments/assets/3824c50a-8975-4674-ab27-17adf2be13d2">
+A Google Search link is also available at the bottom of the page if you would like to cross validate results.
 
 ### 2. MedPali
 
 MedPali is an AI model capable to comprehend medical images and answer questions you may have regarding that image. 
 
-MedPali is easy and straight forward to use:
-
-<img width="983" alt="medpali_intro" src="https://github.com/user-attachments/assets/34b7bb49-d2f0-443c-b451-30f1ab52e7db">
-
-You can prompt the model by following the below template:
+MedPali is easy and straight forward to use. You can prompt the model by following the below template:
 - For a quick description of the image, ask the model for "caption en".
 - Or simply ask a straight to the point question of your choice.
 
-<img width="983" alt="medpali_prompt" src="https://github.com/user-attachments/assets/36e363b8-cf7e-43e3-a9fa-1797212fb06e">
-
-If you wish to get more information, you can prompt again the model:
-
-<img width="983" alt="medpali_conv" src="https://github.com/user-attachments/assets/f553cf3f-5bd4-484f-ad06-e63015f3bc9f">
-
+<img width="983" alt="[medpali_prompt" src="https://github.com/user-attachments/assets/fc62cd2e-6e40-42eb-bb7b-58ee2d8b639a">
 
 ### 3. Medical Recommendations
 
