@@ -22,7 +22,7 @@ cd webapp
 streamlit run app.py
 ```
 
-<img width="983" alt="anima_home" src="https://github.com/user-attachments/assets/d44f55f6-9be0-4cd1-b688-1c72897339c4">
+<img width="983" alt="anima_home" src="https://github.com/user-attachments/assets/3e166979-9fb1-4659-b887-8ab94469e951">
 
 
 4. The application will open in your browser, feel free to explore and to use either the chat or the image assistant. 
