@@ -70,11 +70,11 @@ ANIMA is also capable of providing recommendations using medical record from you
 
 You can either fill in the form or upload your own csv:
 
-<img width="983" alt="reco_form" src="https://github.com/user-attachments/assets/6c7dab6b-1a83-4c39-bcb9-460bf54110d3">
+<img width="983" alt="reco_form" src="https://github.com/user-attachments/assets/0a3098c8-c69b-4999-9126-aa1f1e3c7b2d">
 
 This will output informations alongside recommendations:
 
-<img width="983" alt="reco_answer" src="https://github.com/user-attachments/assets/54bf426f-1dd1-4787-b585-f0b1a111ea59">
+<img width="983" alt="reco_answer" src="https://github.com/user-attachments/assets/52d83c03-15e9-46d6-b304-c5a65e737080">
 
 ### 4. Image Segmentation
 
@@ -82,4 +82,6 @@ On this page, you can upload any medical image. Best performances are observed w
 
 Model will return all objects detected on the image:
 
-<img width="367" alt="segmentation" src="https://github.com/user-attachments/assets/4bac6fea-e87c-450f-b2f4-325013f153ec">
+<img width="367" alt="segmentation" src="https://github.com/user-attachments/assets/fc7ed936-2b22-4897-8cb5-dc73ed8a5c65">
+
+<img width="367" alt="segmentation_label" src="https://github.com/user-attachments/assets/302fb32b-85dc-4f4a-9119-8580dbfe5e47">
